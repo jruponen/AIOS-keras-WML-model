@@ -1,4 +1,4 @@
-# AIOS-keras-WML-model
+# Using AI OpenScale to check accuracy of Keras Neural Network, classifying images
 
 The purpose of these Notebooks is to demonstrate how to use AI OpenScale for testing accuracy on Keras-based model that is classifying images (in this example, with handwritten digists from MNIST data).  
 
